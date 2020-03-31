@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/heroe.webp"
+  bg_image : "images/backgrounds/heroe.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Laboratorio de Biología en Sistemas y Medicina Traslacional"
+  content : "Líderes en innovación biotecnología y medicina de precisión."
+  button:
+    enable : true
+    label : "Conoce nuestros Proyectos"
+    link : "#services"

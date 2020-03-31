@@ -47,7 +47,7 @@ URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Investigacion"
+name = "Investigación"
 URL = "services"
 weight = 2
 
@@ -62,7 +62,7 @@ URL = "team"
 weight = 4
 
 [[menu.main]]
-name = "Publicaciones"
+name = "Post"
 URL = "blog"
 weight = 6
 
@@ -84,7 +84,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/logo.jpg"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Themefisher"
@@ -96,7 +96,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/grande.jpg"
 
 # google map
 [params.map]
@@ -104,7 +104,7 @@ enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "18.929508"
 map_longitude = "-99.210395"
-map_marker = "images/logo.png"
+map_marker = "images/logo.jpg"
 
 ############################# social icons ##########################
 [[params.social]]
