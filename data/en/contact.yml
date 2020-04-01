@@ -1,9 +1,8 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Colabora con nosotros.
-  subtitle : Contacto
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  title : Contacto
+  subtitle : Estamos en constante búsqueda de jóvenes investigadores que desean desarrollar todo su potencial científico y tecnológico.
   form_action: "#" #contact form works with https://formspree.io
 
   contact_details :

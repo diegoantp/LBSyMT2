@@ -1,16 +1,14 @@
 ############################# About ###################################
 about:
   enable : true
-  title : Nosotros
+  title : Instituciones Asociadas
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
+  - icon : fas-certificate # themify 
+    title : Instituto de Biotecnología
+    content : Universidad Nacional Autónoma de México
+  - icon : ti-cup 
+    title : Centro de Investigación en Dinámica Celular
+    content : Universidad Nacional Autónoma de México
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Centro Nacional de Investigación y Desarrollo Tecnológico
+    content : Tecnológico Nacional de México

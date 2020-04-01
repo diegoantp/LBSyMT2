@@ -22,6 +22,8 @@ link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
+link = "plugins/custom-icons/solid.css"
+[[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
 
 # js plugins
@@ -47,7 +49,7 @@ URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Investigación"
+name = "Proyectos"
 URL = "services"
 weight = 2
 
@@ -84,9 +86,9 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.jpg"
+logo = ""
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
+description = "LBSyMT"
 author = "Themefisher"
 # Google Analitycs
 google_analitycs_id = "" # Your ID
@@ -100,7 +102,7 @@ preloader = "images/grande.jpg"
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "18.929508"
 map_longitude = "-99.210395"

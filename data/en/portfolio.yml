@@ -1,21 +1,21 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Publicaciones
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : Cáncer de Hueso, Un espiral de anécdotas.
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
+      categories : ["Osteosarcoma"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
       link : "https://themefisher.com"
       
     # portfolio item loop
-    - name : Sound system
+    - name : LBSyMT presente en ISMB-ECCB 2019
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
+      categories : ["Osteosarcoma"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
       link : ""
       

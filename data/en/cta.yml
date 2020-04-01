@@ -7,5 +7,5 @@ cta:
   content : ""
   button:
     enable : true
-    label : "Contactanos"
+    label : "Únete al equipo!"
     link : "#contact"
