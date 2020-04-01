@@ -1,26 +1,33 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Protocolos
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
+  title : Protocolos Técnicos
+  subtitle : Contamos con diversos protocolos para investigación en biología celular, bioquímica y bioinformática.
+  image : images/minion.webp
   skill_item :
     # skill item loop
-    - name :  Business Development
-      percent : 90%
+    - name :  Secuenciación genómica
+      percent : 100%
       
     # skill item loop
-    - name :  Analysis
-      percent : 70%
+    - name :  CRISPR-Cas9
+      percent : 100%
       
     # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
-      percent : 95%
+    - name :  Cultivo Celular
+      percent : 100%
       
     # skill item loop
-    - name :  Andriod Development
-      percent : 75%
+    - name :  Análisis de datos masivos
+      percent : 1000%
+      
+    # skill item loop
+    - name :  Modelaje de Moleculas Bioactivas
+      percent : 100%
+      
+    - name :  Desarrollo de Herramientas Bioinformáticas
+      percent : 100%
+      
+    # skill item loop
+    - name :  Desarrollo de algoritmos de Inteligencia Artificial y Machine Learning
+      percent : 100%

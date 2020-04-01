@@ -69,11 +69,6 @@ URL = "blog"
 weight = 6
 
 [[menu.main]]
-name = "Conferencias"
-URL = "talks"
-weight = 7
-
-[[menu.main]]
 name = "Contacto"
 URL = "contact"
 weight = 8
