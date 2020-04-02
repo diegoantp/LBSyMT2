@@ -11,12 +11,12 @@ service:
     # service item loop
     - name : Aterosclerosis
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Selección de biomarcadores relacionados con Aterosclerosis con el objetivo de lograr una intervención temprana.
       
     # service item loop
     - name : Demencia
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Identificación de biomarcadores asociados con demencia y uso de aprendizaje automático para desarrollar un nuevo modelo de estudio de sistema celular
       
     # service item loop
     - name : Machine Learning
@@ -32,3 +32,7 @@ service:
     - name : Canales Ionicos
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      # service item loop
+    - name : Nutrigenómica
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Estudiamos el papel que tiene un patrón alimenticio con los polimorfismos genéticos y cómo impactan en los factores de riesgo de enfermedades complejas, determinando las vías metabólicas en las que participan. Y mediante la acción de compuestos bioactivos provenientes de alimentos nativos que tengan participación metabólica en las mismas vías, se logre un efecto preventivo para la enfermedad en población amerindia y mestiza. 

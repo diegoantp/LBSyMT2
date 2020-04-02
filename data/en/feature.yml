@@ -12,7 +12,7 @@ feature:
       content : Empleamos diversos algoritmos bioinformáticos que nos permiten realizar diversos análisis de datos genómicos para la identificación de biomarcadores.  
       # feature item loop
     - title : Investigación Biomédica
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
       # feature item loop
@@ -22,5 +22,5 @@ feature:
       
       # feature item loop
     - title : Diagnóstico Molecular
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       content : Búsqueda y desarrollo de nuevos métodos diagnósticos, como biomarcadores séricos o genéticos cuyo objetivo sea la intervención temprana de enfermedades complejas.
