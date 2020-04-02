@@ -1,17 +1,17 @@
 - id: blogTitle
-  translation: Latest Post
+  translation: Publicaciones Recientes
 - id: readMore
-  translation: Read more
+  translation: Leer Mas 
 - id: viewAllPost
-  translation: View All Post
+  translation: Ver Todas
 - id: share
-  translation: Share
+  translation: Compartir
 - id: aboutAuthor
-  translation: About author
+  translation: Acerca De
 - id: authorsPosts
-  translation: Author's posts
+  translation: Publicaciones
 - id: submit
-  translation: Submit
+  translation: Enviar
 - id: all
   translation: All
 - id: copyright
